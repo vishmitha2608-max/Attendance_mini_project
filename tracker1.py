@@ -3,7 +3,7 @@ students = ["Ravi", "Asha", "Kiran"]
 attendance = {}
 attendance_history = {name: [] for name in students}
 
-# Function to save attendance into txt file
+
 def save_to_file():
     with open("attendance_record.txt", "a") as file:
         file.write("Today's Attendance:\n")
