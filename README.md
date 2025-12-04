@@ -1,1 +1,0 @@
-# Attendance_mini_project
